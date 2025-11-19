@@ -1,0 +1,9 @@
+
+
+**Prep time:** 30 min | **Cook time:** 1 hour | **Serves:** 8
+## Ingredients
+- Grind Ashu, Fresh Vegetables, beef, crayfish …
+## Steps
+1. Cook grind ashu …
+2. Add peanuts …
+Proudly Cameroonian! 
