@@ -6,10 +6,10 @@
 | Name            | GitHub Username      | Personal Branch       | Recipes |
 |-----------------|----------------------|-----------------------|---------|
 | HALEU KAME      | haleukamestephane-ops| king-stephane         | 5       |
-| Moma junior     | emmanuelmoma        | jjk-peak               | 5       |
+| Moma junior     | emmanuelmoma         | jjk-peak               | 5       |
 | anjah seri      | ambeseri71@gmail.com | seri-6                | 5       |
 | Fatima          | @fatima99            | fatima-aboubakar      | 5       |
 | Rose            | @rose2025            | rose-eyinga           | 5       |
-| …               | …                    | …                     |         |
+| Eloumou Carla   | caz-byte             | cazs-recipe           | 5       |
 
 **Branch naming rule:** lowercase, hyphen, your full name → e.g. `paul-ayuk
