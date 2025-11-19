@@ -1,7 +1,7 @@
 # recipe-tracker-cia
 
 **Class:** Year 1 – November 2025
-**Every member creates ONE branch with their name containing exactly 5 recipes**
+
 
 | Name            | GitHub Username      | Personal Branch       | Recipes |
 |-----------------|----------------------|-----------------------|---------|
@@ -12,4 +12,4 @@
 | ivana           |ivanairissemetchopngouna|ivana-irisse        | 5       |
 | Eloumou Carla   | caz-byte             | cazs-recipe           | 5       |
 
-**Branch naming rule:** lowercase, hyphen, your full name → e.g. `paul-ayuk
+
