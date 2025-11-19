@@ -5,8 +5,8 @@
 
 | Name            | GitHub Username      | Personal Branch       | Recipes |
 |-----------------|----------------------|-----------------------|---------|
-| HALEU KAME      | haleukamestephane-ops| king stephane         | 5       |
-| Marie Ngo       | @marie25        | marie-ngo             | 5       |
+| HALEU KAME      | haleukamestephane-ops| king-stephane         | 5       |
+| Moma junior      | emmanuelmoma        | jjk-peak             | 5       |
 | Jean-Pierre     | @jp2025         | jean-pierre           | 5       |
 | Fatima          | @fatima99       | fatima-aboubakar      | 5       |
 | Rose            | @rose2025       | rose-eyinga           | 5       |
