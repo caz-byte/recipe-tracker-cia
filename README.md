@@ -12,4 +12,4 @@
 | ivana           |ivanairissemetchopngouna|ivana-irisse         | 5       |
 | Eloumou Carla   | caz-byte             | cazs-recipe           | 5       |
 
-
+**Branch naming rule:** lowercase, hyphen, your full name → e.g. `paul-ayuk`
