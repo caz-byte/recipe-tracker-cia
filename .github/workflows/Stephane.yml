@@ -1,4 +1,4 @@
-name: Hello World
+name: Check requirements
 on:
   - push
 jobs:
@@ -7,5 +7,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Say Hello
-        run: echo "Hello, World!"
+      - name: check requirements
+        run: |
+             [ -f READM.md ] && [ -d recipes ]
