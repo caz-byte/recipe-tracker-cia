@@ -1,0 +1,11 @@
+name: HELLO WORLD
+on: 
+  -push
+jobs:
+    say-hello:
+    runs-on: windows
+    steps:
+      - name:checkout code
+        uses:actions/checkout@v4
+      - name:say hello
+        run:echo"Hello, World!"
