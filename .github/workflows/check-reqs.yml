@@ -9,5 +9,6 @@ jobs:
         uses: actions/checkout@v4 #clone the project
       - name: Say Hello
         run: |
-          [ -f README.md ] && [-d recipes] #check if readme file and recipes directory exist
+          [ -f README.md ] && [-d recipes] 
+        #check if readme file and recipes directory exist
 
