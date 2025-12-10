@@ -1,0 +1,12 @@
+name: Hello World
+on:
+  - push
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Hello World
+        run: echo "Hello, World!"
+        [-f README.md] && [-d recipes]
