@@ -7,6 +7,5 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Hello World
+      - name: Say Hello
         run: echo "Hello, World!"
-        [-f README.md] && [-d recipes]
