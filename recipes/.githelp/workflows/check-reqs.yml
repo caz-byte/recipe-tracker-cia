@@ -1,0 +1,12 @@
+name: check-requirements
+on: 
+   -push
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout code
+        uses: action/checkout@v4
+      - name: check-requirements
+        run: |
+            [-f READE.md] && [-d recipes]
