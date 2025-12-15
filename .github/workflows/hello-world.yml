@@ -9,4 +9,4 @@ jobs:
         uses: actions/checkout@v4
       - name: check requirements
         run: |
-              [-f recipes] && [-d README.md]
+              [ -f README.md] && [ -d recipes]
