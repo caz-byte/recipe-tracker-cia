@@ -1,0 +1,14 @@
+name: Check Requirements
+on:
+  -push
+jobs:
+  check-reqs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code #os it runs on
+        uses: actions/checkout@v4 #clone the project
+      - name: Say Hello
+        run: |
+          [ -f README.md ] && [-d recipes] 
+        #check if readme file and recipes directory exist
+
