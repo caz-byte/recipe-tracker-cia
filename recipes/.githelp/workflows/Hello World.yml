@@ -1,0 +1,11 @@
+name: say-hello
+on: 
+   -push
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: say-hello
+        uses: action/checkout@v4
+      - name: say hello
+        run: echo "Hello World"
