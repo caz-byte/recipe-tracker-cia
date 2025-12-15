@@ -2,7 +2,6 @@
 
 **Class:** Year 1 – November 2025
 
-
 | Name            | GitHub Username      | Personal Branch       | Recipes |
 |-----------------|----------------------|-----------------------|---------|
 | HALEU KAME      | haleukamestephane-ops| king-stephane         | 5       |
@@ -11,4 +10,3 @@
 | nana nananathanael | nana ngassam      | Ngassam nana          | 5       |
 | ivana           |ivanairissemetchopngouna|ivana-irisse         | 5       |
 | Eloumou Carla   | caz-byte             | cazs-recipe           | 5       |
-
