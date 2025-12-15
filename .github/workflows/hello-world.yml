@@ -1,4 +1,4 @@
-name: cck requirements
+name: check requirements
 on:
   - push
 jobs:
